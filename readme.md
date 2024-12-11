@@ -35,7 +35,7 @@ Annelie,  Tim,  Robin Olsson
 ### 4. Algorithm Design
 
 ## FigJam-länk
-[FigJam-länk](länk)
+[FigJam-länk](https://www.figma.com/board/kLvAu1ZHqKvCmhmCREccaG/Untitled?node-id=0-1&t=KXElxxBsSSgIeuBI-1)
 
 ---
 
