@@ -1,6 +1,7 @@
 FE24 -CurlyMasters-Airbean
 
-##Medlemma; Annelie,  Tim,  Robin Olsson
+## Medlemmar; 
+Annelie,  Tim,  Robin Olsson
 
 # Sammanfattning av analys ütav AirBeans Grupp Exam projectet
 
