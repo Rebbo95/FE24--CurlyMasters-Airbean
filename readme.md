@@ -29,6 +29,13 @@ Annelie,  Tim,  Robin Olsson
 
 ### 2. Pattern Recognition
 
+1. Databas: Lagra data för kunder, produkter, ordrar och annan nödvändig information.
+2. Validering: Säkerställ att sparad data som personuppgifter och adresser är korrekta.
+3. Autentisering: Skydda beställningsprocessen och hantera uppgifter säkert.
+4. Återbeställning: Möjliggör sparande och läsning av tidigare beställningar för att underlätta för kunder att beställa samma dryck igen.
+5. Snabbare köp: Implementera funktion för att spara betalningsalternativ och minska tiden för köp.
+6. Flexibla val: Tillhandahåll funktionalitet för att addera och kombinera olika kaffemenyer.
+
 
 ### 3. Abstraction
 
