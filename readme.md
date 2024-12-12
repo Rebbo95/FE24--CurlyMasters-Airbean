@@ -29,15 +29,36 @@ Annelie,  Tim,  Robin Olsson
 
 ### 2. Pattern Recognition
 
-1. Databas: Lagra data för kunder, produkter, ordrar och annan nödvändig information.
-2. Validering: Säkerställ att sparad data som personuppgifter och adresser är korrekta.
-3. Autentisering: Skydda beställningsprocessen och hantera uppgifter säkert.
-4. Återbeställning: Möjliggör sparande och läsning av tidigare beställningar för att underlätta för kunder att beställa samma dryck igen.
-5. Snabbare köp: Implementera funktion för att spara betalningsalternativ och minska tiden för köp.
-6. Flexibla val: Tillhandahåll funktionalitet för att addera och kombinera olika kaffemenyer.
+ Databas: Lagra data för kunder, produkter, ordrar och annan nödvändig information.
+ Validering: Säkerställ att sparad data som personuppgifter och adresser är korrekta.
+ Autentisering: Skydda beställningsprocessen och hantera uppgifter säkert.
+ Återbeställning: Möjliggör sparande och läsning av tidigare beställningar för att underlätta för kunder att beställa samma dryck igen.
+ Snabbare köp: Implementera funktion för att spara betalningsalternativ och minska tiden för köp.
+ Flexibla val: Tillhandahåll funktionalitet för att addera och kombinera olika kaffemenyer.
 
 
 ### 3. Abstraction
+Databashantering:
+
+Skapa en databas för att lagra information om produkter, kundvagnar och kunder.
+Representera dessa som objekt i systemet.
+Validering och säkerhet:
+
+Validera användaruppgifter för att säkerställa deras korrekthet.
+Säkerställ en trygg köpupplevelse genom informationssäkerhet och krypterade transaktioner.
+E-handel och köpupplevelse:
+
+Möjliggör köp av produkter med val för leverans.
+Produkter ska ha ett ID, namn, storlek, bild, beskrivning och kategori.
+Användarvänlighet:
+
+Låt kunder återbeställa tidigare beställningar.
+Ge möjlighet att spara och återanvända email, telefonnummer och adress.
+Stöd både inloggade och gästande kunder vid beställning.
+Betalningsalternativ:
+
+Erbjud olika betalmetoder som debitkort och Klarna.
+Fokus ligger på användarvänlighet, säkerhet och flexibilitet för en bättre kundupplevelse.
 
 ### 4. Algorithm Design
 
