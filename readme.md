@@ -38,8 +38,8 @@ Annelie,  Tim,  Robin Olsson
 
 
 ### 3. Abstraction
-Databashantering:
 
+Databashantering:
 Skapa en databas för att lagra information om produkter, kundvagnar och kunder.
 Representera dessa som objekt i systemet.
 Validering och säkerhet:
