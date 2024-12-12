@@ -62,9 +62,19 @@ Fokus ligger på användarvänlighet, säkerhet och flexibilitet för en bättre
 
 ### 4. Algorithm Design
 
+---
+
+---
+## Avvägningar
+---
+## Egna tolkningar
+
+---
+
 ## FigJam-länk
 [FigJam-länk](https://www.figma.com/board/kLvAu1ZHqKvCmhmCREccaG/Untitled?node-id=0-1&t=KXElxxBsSSgIeuBI-1)
 
 ---
+
 
 ## Sammanfattning
